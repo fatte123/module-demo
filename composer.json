@@ -19,4 +19,10 @@
       "Digital\\Requestinfo\\": ""
     }
   }
+   "repositories": [
+        {
+            "type": "composer",
+            "url": "http://repo.magento.com/"
+        }
+    ]
 }
